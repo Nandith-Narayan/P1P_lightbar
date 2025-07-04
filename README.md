@@ -20,3 +20,19 @@ To use this code, you will have to add the following:
 #define P1P_MQTT_PORT 8883
 #define P1P_SERIAL "Your Printer's serial number - I got this from BambuStudio Device tab - a string"
 ```
+
+### Requirements:
+The following libraries are required
+
+MQTT:
+
+![image](https://github.com/user-attachments/assets/0e1ac0aa-984d-4796-be48-661068b50eb4)
+
+Arduino JSON:
+
+![image](https://github.com/user-attachments/assets/fcf32635-d4e3-4d75-9684-3f519734e3af)
+
+Adafruit NeoPixel:
+
+![image](https://github.com/user-attachments/assets/b61870b0-32be-4521-8811-cf35b78bc4d7)
+
