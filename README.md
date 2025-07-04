@@ -1,5 +1,7 @@
 ## An ESP32 based Light bar for the P1P
 
+![PXL_20250704_120305487_preview](https://github.com/user-attachments/assets/932a959b-a7a2-456f-94c3-db689ee48fa1)
+
 It uses MQTT to comunicate with the P1P and query the current state of the printer. It then animates an LED strip based on print progress and printer state.
 
 ### Why?
